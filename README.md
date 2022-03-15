@@ -2,6 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About this project
 
 This was our second practice app for using React components!
