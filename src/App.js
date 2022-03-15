@@ -1,5 +1,6 @@
 import './App.css';
 import StudentList from './StudentList';
+import Title from './Title';
 
 function App() {
   const students = [
@@ -64,6 +65,7 @@ function App() {
   ]
   return (
     <div className="App">
+      <Title students={students} />
       <StudentList students={students} />
     </div>
   );
